@@ -1,4 +1,4 @@
 def rescue_princess_peach(phrase)
-  puts "Hooray"
+  puts "Hooray! Mario has rescued Princess Peach"
 
 
