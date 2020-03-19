@@ -1,5 +1,5 @@
-def rescue_princess_peach(phrase ="Hooray! Mario has rescued Princess Peach")
-  puts phrase
+def rescue_princess_peach
+  status = "rescued"
+  puts "Hooray! Mario has rescued Princess Peach."
 end
-
 
